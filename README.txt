@@ -6,3 +6,5 @@ place the script (ladder.pl) in the directory. By default the subject file to re
 
 once you place format.mp4 in the directory run the script and enter the episode name. You can edit the show name in within the script itself
 The settings are front and center so they should be easy to change.
+The change the current episode number look in iter.txt
+you only need to change this once because it auto increments everytime it runs
